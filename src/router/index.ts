@@ -6,7 +6,7 @@ const router =  createRouter({
     routes:[
         {
             path:'/',
-            component:Layout
+            component:Layout,
         },
         {
             path:'/login',
@@ -15,3 +15,4 @@ const router =  createRouter({
     ]
 })
 export default router
+
